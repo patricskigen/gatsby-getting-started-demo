@@ -1,0 +1,16 @@
+.nav-bar {
+  background-color: #eee;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.nav-bar ul {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.nav-bar li {
+  padding-right: 2rem;
+}
