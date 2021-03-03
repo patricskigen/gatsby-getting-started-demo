@@ -4,8 +4,8 @@ import PageLayout from "../components/layout.js";
 
 const AboutPage = () => {
   return (
-    <PageLayout>
-      <h1>Hi, welcome to my site!</h1>
+    <PageLayout pageTitle="About Page">
+      <p>Hi, welcome to my site!</p>
     </PageLayout>
   );
 };
