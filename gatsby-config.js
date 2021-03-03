@@ -2,5 +2,9 @@ module.exports = {
   siteMetadata: {
     title: "Getting Started",
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
+  ],
 };
